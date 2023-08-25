@@ -1,6 +1,6 @@
 {
   "name": "drive-downloadable-link",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A utility to generate direct downloadable links from Google Drive shareable links.",
   "main": "dist/bundle.js",
   "scripts": {
