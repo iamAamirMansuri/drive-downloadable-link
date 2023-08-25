@@ -1,8 +1,6 @@
 # Google Drive Downloadable Link
 
 [![npm version](https://img.shields.io/npm/v/drive-downloadable-link)](https://www.npmjs.com/package/drive-downloadable-link)
-[![npm downloads](https://img.shields.io/npm/dt/drive-downloadable-link)](https://www.npmjs.com/package/drive-downloadable-link)
-[![GitHub license](https://img.shields.io/github/license/iamAamirMansuri/drive-downloadable-link)](https://github.com/iamAamirMansuri/drive-downloadable-link/blob/master/LICENSE)
 
 Effortlessly generate direct downloadable links from Google Drive shareable links.
 
